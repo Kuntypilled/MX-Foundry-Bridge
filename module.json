@@ -1,0 +1,25 @@
+{
+  "id": "mx-foundry-bridge",
+  "title": "MX Foundry Bridge",
+  "description": "Layer hotkeys + tool cycling for Foundry v13 scene controls (optimized for Logitech MX Master 4).",
+  "version": "1.0.5",
+  "authors": [
+    {
+      "name": "Kuntypilled"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "scripts": [
+    "scripts/bridge.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
